@@ -127,7 +127,7 @@ namespace nkDotCorners
 
                         break;
 
-                    // South - West
+                    // South-West
                     case 4:
                         // New dot rectangle using settings data
                         this.dotRectangle = new Rectangle(0, this.dotPictureBox.Height - this.settingsData.DotSize, this.settingsData.DotSize, this.settingsData.DotSize);
