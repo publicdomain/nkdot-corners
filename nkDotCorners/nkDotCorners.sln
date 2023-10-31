@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nkDotCorners", "nkDotCorners.csproj", "{4B671538-2804-40E7-A72A-11DFBC8001FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B671538-2804-40E7-A72A-11DFBC8001FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B671538-2804-40E7-A72A-11DFBC8001FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B671538-2804-40E7-A72A-11DFBC8001FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B671538-2804-40E7-A72A-11DFBC8001FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal
