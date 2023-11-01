@@ -40,6 +40,7 @@ Day #304, Week #44 @ October 31, 2023
 * Jesse Reichler (A.K.A. Mouser from DonationCoder.com)
 * Max P.
 * Kathryn S.
+* Mateusz D.
 * Cranioscopical
 * Tomos
 * luvnbeast
